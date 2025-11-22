@@ -3,7 +3,7 @@
   "summary": {
     "title": "Exemplo",
     "owner": "Marcelo",
-    "description": "Transmissão de dados de um computador para outro.",
+    "description": "Teste de diversos diagramas para modelagem de ameaças.",
     "id": 0
   },
   "detail": {
@@ -17,10 +17,50 @@
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.5.0",
         "cells": [],
-        "description": "Diagrama de exemplo"
+        "description": "Diagrama de 1° exemplo"
+      },
+      {
+        "id": 1,
+        "title": "Diagrama_PLOT4ai",
+        "diagramType": "PLOT4ai",
+        "placeholder": "Descrição de novo diagrama PLOT4ai",
+        "thumbnail": "./public/content/images/thumbnail.plot4ai.jpg",
+        "version": "2.5.0",
+        "cells": [],
+        "description": "Diagrama de 2° exemplo"
+      },
+      {
+        "id": 2,
+        "title": "Diagrama_LINDDUN",
+        "diagramType": "LINDDUN",
+        "placeholder": "Descrição de novo diagrama LINDDUN",
+        "thumbnail": "./public/content/images/thumbnail.linddun.jpg",
+        "version": "2.5.0",
+        "cells": [],
+        "description": "Diagrama de 3° exemplo"
+      },
+      {
+        "id": 5,
+        "title": "Diagrama_CIA-DIE",
+        "diagramType": "CIADIE",
+        "placeholder": "Descrição de novo diagrama CIA-DIE",
+        "thumbnail": "./public/content/images/thumbnail.die.jpg",
+        "version": "2.5.0",
+        "cells": [],
+        "description": "Diagrama de 4° exemplo"
+      },
+      {
+        "id": 6,
+        "title": "Diagrama_CIA",
+        "diagramType": "CIA",
+        "placeholder": "Descrição de novo diagrama CIA",
+        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
+        "version": "2.5.0",
+        "cells": [],
+        "description": "Diagrama de 5° exemplo"
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 7,
     "reviewer": "",
     "threatTop": 0
   }
